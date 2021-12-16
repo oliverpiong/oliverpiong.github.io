@@ -1,0 +1,71 @@
+
+body {
+  background-color: beige;
+}
+
+.title-container{
+  height: 40vh;
+
+  background-color: rgba(235, 222, 207);
+}
+
+.title-Hello {
+  font-size: 12rem;
+  font-weight: 700;
+  font-family: 'Noto Serif Display', serif
+}
+
+.title-name {
+  font-size: 7rem;
+  font-weight: 500;
+  font-family: 'Noto Serif Display', serif
+
+  color: rbg{30,30,30}
+}
+
+.titletag {
+font-size: 7rem;
+font-weight: 500;
+font-family: 'Noto Serif Display', serif
+}
+
+.about-me-container {
+  width: 80vw;
+
+padding-top: 20px;
+padding-bottom: 20px;
+
+  margin-left: 10vw;
+
+  background-color: #A0816C
+}
+
+.about-me-image {
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px black
+}
+
+.about-me-text {
+  font-size: 3rem;
+  font-family: 'Noto Serif Display', serif
+  padding-left: 15% !important;
+  padding-right: 5% !important;
+  color: beige
+}
+
+.contact-me-container {
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+
+  font-size: 5rem;
+  font-weight: 550;
+  font-family: 'Noto Serif Display', serif
+}
+
+.contact-me-icon {
+  width: 8rem;
+  height: 8rem;
+}
